@@ -81,3 +81,13 @@ def get_scatter_chart(selected_site, payload_range):
 # Run the app
 if __name__ == '__main__':
     app.run_server()
+
+
+#Which site has the largest successful launches?:
+From the scatter plot, we see that KSC LC-39A has the largest successful launches, n=10.
+#Which site has the highest launch success rate?:
+CCAFS SLC-40 has th ehighest success rate of 42.9%.
+#Which payload range(s) has the highest launch success rate?
+#Which payload range(s) has the lowest launch success rate?
+#Which F9 Booster version (v1.0, v1.1, FT, B4, B5, etc.) has the highest launch success rate?
+#From the scatter plot, FT (green) has the highest number of successful launches.
